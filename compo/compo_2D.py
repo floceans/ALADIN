@@ -20,7 +20,7 @@ yearmax = 2010
 data = {}
 nstorm = 0
 
-data_name="hus500"
+data_name="tas"
 
 
 RADIUS = 600    # Distance au centre des bords du domaine

@@ -8,8 +8,10 @@ import cartopy.io.img_tiles as cimgt
 
 filename_global = '/home/florent/Documents/ENM_3A/Aladin/modele_forceur/suiamip_g359_concatene.rel200'
 filename_local = '/home/florent/Documents/ENM_3A/Aladin/local_track_2002-2010/local_concatene.rel200'
+filename_D10 = '/home/florent/Documents/ENM_3A/Aladin/REL200/concat/D10_concat.rel200'
+filename_F10 = '/home/florent/Documents/ENM_3A/Aladin/REL200/concat/F10_concat.rel200'
 
-filename = filename_local
+filename = filename_F10
 
 tracks = {}
 current_track_id = None
